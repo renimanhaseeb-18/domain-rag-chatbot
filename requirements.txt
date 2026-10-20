@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+torch
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+pypdf
+python-dotenv
+groq
+numpy
+scikit-learn
+pandas
+reportlab
